@@ -1,4 +1,4 @@
-## Hi there 👋
+## Research Project
 
 <!--
 **Chun1225/Chun1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
